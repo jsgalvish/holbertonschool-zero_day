@@ -1,1 +1,1 @@
-*This is my first commit in holberton School*
+*This is my first Holberton Commit*
